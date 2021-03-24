@@ -24,6 +24,11 @@ public class Panel extends Canvas {
         int Dx, Dy, p, Const1, Const2;
         int x, y;
 
+
+
+
+
+
         Dx = x2 - x1;
         Dy = y2 - y1;
         p = 2 * Dy - Dx;    //   (Dy <<1)  - Dx
